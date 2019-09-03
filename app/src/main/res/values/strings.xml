@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contentful Sample</string>
+    <string name="msg_general_error">"An error has been occurred"</string>
+    <string name="refresh_btn">"Refresh"</string>
+    <string name="calories_string">Calories: </string>
+    <string name="chef_string">Inspired by: </string>
+
+</resources>
